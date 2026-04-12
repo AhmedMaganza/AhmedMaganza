@@ -2,7 +2,6 @@
 
 🚀 Software Engineer | 📊 Data Enthusiast and AI Consultant  
 
----
 
 ## 🧑‍💻 About Me
 
@@ -34,7 +33,6 @@ I'm a software engineer passionate about building practical solutions and improv
 - REST APIs
 - Firebase
 
----
 
 ## 📂 Projects
 
@@ -43,7 +41,6 @@ I'm a software engineer passionate about building practical solutions and improv
 - Built n8n
 🔗 https://github.com/
 
----
 
 ### 📊 Data Analysis Projects
 - Real-world datasets and insights  
@@ -51,7 +48,6 @@ I'm a software engineer passionate about building practical solutions and improv
 🔗 https://github.com/
 
 
----
 
 ## 🌐 Connect With Me
 
@@ -60,6 +56,5 @@ I'm a software engineer passionate about building practical solutions and improv
 - SKOOLS Community: https://skool.com/informious-4241
 - Website: https://informious.com 
 
----
 
 ⭐️ Feel free to explore my repositories and connect with me!
